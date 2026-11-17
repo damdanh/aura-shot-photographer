@@ -1,0 +1,6 @@
+import PhotographerSubscriptionPage from "@/components/admin/pages/PhotographerSubscriptionPage";
+
+export default async function Page({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  return <PhotographerSubscriptionPage id={id} />;
+}

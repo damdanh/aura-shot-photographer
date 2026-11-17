@@ -1,0 +1,28 @@
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.local-browsers/
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Google credentials
+google-credentials.json
+**/google-credentials.json
+
+# OS generated files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+# OS generated files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Local debug and maintenance tools
+backend/tools/api-playground.html
+backend/src/scripts/testLogin.js
+backend/src/scripts/inspectUsers.js
+backend/src/scripts/repairPhotographerAccount.js
