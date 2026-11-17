@@ -1,4 +1,4 @@
-# 📸 Aura Shot Photographer
+#  Aura Shot Photographer
 
 **Nền tảng quản lý dịch vụ nhiếp ảnh, album ảnh trực tuyến và trải nghiệm khách hàng.**
 
@@ -8,14 +8,14 @@ Dự án được thực hiện theo nhóm với mục tiêu xây dựng một h
 
 ---
 
-## 🎯 Mục tiêu dự án
+##  Mục tiêu dự án
 
 - Xây dựng nền tảng trực tuyến kết nối nhiếp ảnh gia với khách hàng.
 - Hỗ trợ quản lý album và hình ảnh tập trung.
 - Cải thiện trải nghiệm tìm kiếm, đặt dịch vụ và mua sắm trực tuyến.
 - Tìm hiểu và ứng dụng các công nghệ Frontend, Backend và dịch vụ Cloud trong một sản phẩm thực tế.
 
-## ✨ Chức năng chính
+##  Chức năng chính
 
 ### 1. Khách hàng (Customer)
 - Đăng ký, đăng nhập và quản lý tài khoản.
@@ -49,7 +49,7 @@ Dự án được thực hiện theo nhóm với mục tiêu xây dựng một h
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+##  Công nghệ sử dụng
 
 ### Frontend
 - **Next.js** – Framework xây dựng ứng dụng web.
@@ -73,7 +73,7 @@ Dự án được thực hiện theo nhóm với mục tiêu xây dựng một h
 
 ---
 
-## 🏗️ Cấu trúc dự án
+##  Cấu trúc dự án
 
 ```text
 aura-shot-photographer/
@@ -108,7 +108,7 @@ aura-shot-photographer/
 
 ---
 
-## 🚀 Hướng dẫn cài đặt
+##  Hướng dẫn cài đặt
 
 ### 1. Yêu cầu môi trường
 
@@ -175,7 +175,7 @@ Frontend và Backend cần được cấu hình địa chỉ kết nối API ph�
 
 ---
 
-## 🔐 Bảo mật và cấu hình môi trường
+##  Bảo mật và cấu hình môi trường
 
 - Không commit file `.env` lên GitHub.
 - Không công khai API Key, Access Token, Client Secret hoặc thông tin đăng nhập.
@@ -185,7 +185,7 @@ Frontend và Backend cần được cấu hình địa chỉ kết nối API ph�
 
 ---
 
-## 👨‍💻 Vai trò và đóng góp cá nhân
+##  Vai trò và đóng góp cá nhân
 
 **Vai trò:** Frontend Developer  
 **Quy mô nhóm:** 5 thành viên  
@@ -233,7 +233,7 @@ Trong dự án Aura Shot, mình phụ trách phát triển giao diện người 
 - Xây dựng giao diện responsive cho nhiều vai trò người dùng.
 - Phối hợp phát triển sản phẩm trong môi trường dự án nhóm.
 
-## 📚 Những kiến thức và kỹ năng tích lũy
+##  Những kiến thức và kỹ năng tích lũy
 
 - Phát triển giao diện bằng React và Next.js.
 - Tổ chức source code theo cấu trúc component.
